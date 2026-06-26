@@ -48,12 +48,23 @@ Do **not** disable these flags for the public portfolio build.
 
 ![ORDERra menu product grid](docs/screenshots/orderra-menu-grid.png)
 
+### Cart drawer
+
+![ORDERra cart drawer](docs/screenshots/orderra-cart-drawer.png)
+
+### Checkout and payment flow
+
+![ORDERra checkout and payment flow](docs/screenshots/orderra-checkout-payment.png)
+
+### AI Support open panel
+
+![ORDERra ai support open panel](docs/screenshots/orderra-v2-ai-support-open-panel.png)
+
 More portfolio captures can be added later:
 
-1. Checkout + payment simulation
-2. Confirmation / timeline
-3. Admin dashboard + Table QR
-4. AI Support open panel
+1. Confirmation / order timeline
+2. Admin dashboard
+3. Table QR management
 
 ---
 
