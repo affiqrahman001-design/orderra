@@ -1,0 +1,30 @@
+{
+  "menu_item_code": "TRUFFLE_FRIES",
+  "code": "TRUFFLE_FRIES_ADD_ONS",
+  "name": "Truffle extras",
+  "helper_text": "Optional add-ons for fries.",
+  "selection_mode": "multiple",
+  "is_required": false,
+  "min_select": 0,
+  "max_select": 2,
+  "sort_order": 1,
+  "is_active": true,
+  "options": [
+    {
+      "code": "EXTRA_DIP",
+      "label": "Extra Dip",
+      "price_delta": 0.75,
+      "is_default": false,
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "code": "PARMESAN",
+      "label": "Parmesan",
+      "price_delta": 1.25,
+      "is_default": false,
+      "sort_order": 2,
+      "is_active": true
+    }
+  ]
+}

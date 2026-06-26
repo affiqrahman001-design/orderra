@@ -1,0 +1,13 @@
+{
+  "code": "LATEBITE15",
+  "title": "Late Bite 15% Off",
+  "description": "Night promo for demo checkout.",
+  "discount_type": "percentage",
+  "percentage_rate": 15,
+  "minimum_subtotal": 25,
+  "badge_label": "15% OFF",
+  "is_active": true,
+  "meta": {
+    "source": "admin_test"
+  }
+}

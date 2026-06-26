@@ -1,0 +1,31 @@
+{
+  "name": "Truffle fries extras",
+  "helper_text": "Optional premium toppings for fries.",
+  "max_select": 3,
+  "options": [
+    {
+      "code": "EXTRA_DIP",
+      "label": "Extra Dip",
+      "price_delta": 0.95,
+      "is_default": false,
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "code": "PARMESAN",
+      "label": "Parmesan",
+      "price_delta": 1.5,
+      "is_default": false,
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "code": "CHILI_FLAKES",
+      "label": "Chili Flakes",
+      "price_delta": 0.4,
+      "is_default": false,
+      "sort_order": 3,
+      "is_active": true
+    }
+  ]
+}

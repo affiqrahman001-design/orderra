@@ -1,0 +1,16 @@
+{
+  "fulfillment_type": "delivery",
+  "customer_context": {
+    "name": "Demo Customer",
+    "phone": "+15550001111"
+  },
+  "fulfillment_context": {
+    "address_line1": "123 Demo Street",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10001",
+    "country_code": "US",
+    "zone_code": "zone-a",
+    "distance_meters": 3200
+  }
+}

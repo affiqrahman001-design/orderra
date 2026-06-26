@@ -1,0 +1,9 @@
+Foundation checkpoint before Step 8
+
+- Laravel fresh backend created successfully
+- API routing locked to /api/v1
+- customer route working
+- catalog contract working
+- frontend catalog HTTP adapter synced to backend
+- backend source of truth: backend_fresh
+- ready to continue Step 8

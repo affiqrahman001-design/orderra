@@ -1,0 +1,8 @@
+{
+  "method_code": "card",
+  "provider_code": "demo_card",
+  "amount": 1299,
+  "meta": {
+    "card_number": "4242424242424242"
+  }
+}

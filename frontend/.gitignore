@@ -1,0 +1,66 @@
+# Environment files - keep example only
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build/test output
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Logs/cache
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vite/
+.cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ---------------------------------------------------------------------------
+# ORDERra frontend hygiene
+# ---------------------------------------------------------------------------
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite / TypeScript cache
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Test / coverage output
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/

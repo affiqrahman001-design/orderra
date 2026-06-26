@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="90" y1="80" x2="700" y2="920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fae0d9"/>
+      <stop offset="1" stop-color="#ea9b8c"/>
+    </linearGradient>
+    <radialGradient id="plateGlow" cx="0" cy="0" r="1" gradientTransform="translate(400 420) rotate(90) scale(290 290)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" rx="44" fill="url(#bg)"/>
+  <circle cx="400" cy="420" r="260" fill="url(#plateGlow)"/>
+  <ellipse cx="400" cy="440" rx="215" ry="215" fill="rgba(255,255,255,0.85)"/>
+  <ellipse cx="400" cy="440" rx="190" ry="190" fill="white" fill-opacity="0.94"/>
+  <ellipse cx="400" cy="400" rx="142" ry="86" fill="#8f3b34" fill-opacity="0.18"/>
+  <ellipse cx="400" cy="500" rx="128" ry="74" fill="#8f3b34" fill-opacity="0.28"/>
+  <path d="M280 450C320 376 388 344 470 362C528 374 564 412 582 460C560 536 488 598 394 582C320 570 256 522 248 470C258 462 268 456 280 450Z" fill="#8f3b34" fill-opacity="0.2"/>
+  <path d="M312 365C346 330 400 310 464 324C516 336 560 372 580 430" stroke="#8f3b34" stroke-opacity="0.38" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="328" cy="420" r="12" fill="#8f3b34" fill-opacity="0.35"/>
+  <circle cx="480" cy="468" r="10" fill="#8f3b34" fill-opacity="0.32"/>
+  <circle cx="432" cy="386" r="8" fill="#8f3b34" fill-opacity="0.24"/>
+  <rect x="104" y="744" width="592" height="150" rx="30" fill="rgba(255,255,255,0.62)"/>
+  <text x="400" y="806" text-anchor="middle" fill="#8f3b34" font-size="52" font-family="Inter, Arial, sans-serif" font-weight="700" letter-spacing="-1">Pomodoro</text>
+  <text x="400" y="862" text-anchor="middle" fill="#8f3b34" fill-opacity="0.85" font-size="48" font-family="Inter, Arial, sans-serif" font-weight="600" letter-spacing="-1">Rigatoni</text>
+</svg>

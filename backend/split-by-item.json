@@ -1,0 +1,29 @@
+{
+  "split_type": "by_item",
+  "participants": [
+    {
+      "participant_ref": "p1",
+      "display_name": "Guest 1",
+      "seat_label": "A1",
+      "is_primary_payer": true
+    },
+    {
+      "participant_ref": "p2",
+      "display_name": "Guest 2",
+      "seat_label": "A2",
+      "is_primary_payer": false
+    }
+  ],
+  "item_allocations": [
+    {
+      "participant_ref": "p1",
+      "order_item_id": 2,
+      "quantity": 1
+    },
+    {
+      "participant_ref": "p2",
+      "order_item_id": 3,
+      "quantity": 1
+    }
+  ]
+}

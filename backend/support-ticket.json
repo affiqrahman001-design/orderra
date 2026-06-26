@@ -1,0 +1,10 @@
+{
+  "order_id": "728f8c3e-3870-4ef0-970d-8c7bc63e11c5",
+  "category": "delivery_issue",
+  "subject": "Delivery tracking question",
+  "description": "Customer asks about rider ETA in demo flow.",
+  "contact_snapshot": {
+    "name": "Demo Customer",
+    "phone": "+15550001111"
+  }
+}

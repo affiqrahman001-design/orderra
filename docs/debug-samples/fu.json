@@ -1,0 +1,6 @@
+{
+  "name": "Delivery service fee updated",
+  "fixed_amount": 2.49,
+  "max_amount": 5.99,
+  "priority": 20
+}

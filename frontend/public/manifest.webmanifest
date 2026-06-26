@@ -1,0 +1,14 @@
+{
+  "name": "ORDERra Demo",
+  "short_name": "ORDERra",
+  "description": "Premium single-restaurant ordering demo prepared for mobile and PWA installation.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f2ea",
+  "theme_color": "#17110f",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-orderra.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

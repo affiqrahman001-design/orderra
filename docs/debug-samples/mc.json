@@ -1,0 +1,11 @@
+{
+  "code": "DESSERTS",
+  "name": "Desserts",
+  "slug": "desserts",
+  "description": "Sweet finishing items.",
+  "is_active": true,
+  "sort_order": 4,
+  "meta": {
+    "source": "admin_test"
+  }
+}

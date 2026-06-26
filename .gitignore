@@ -1,0 +1,140 @@
+# ORDERra repository hygiene
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+.idea/
+.vscode/
+.cursor/
+
+# Environment files - keep examples only
+.env
+.env.*
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
+# Dependencies
+node_modules/
+vendor/
+backend/vendor/
+frontend/node_modules/
+
+# Build outputs
+build/
+dist/
+coverage/
+backend/public/build/
+backend/public/hot
+backend/public/storage
+frontend/dist/
+frontend/build/
+
+# Local databases and runtime files
+*.sqlite
+*.sqlite3
+backend/database/*.sqlite
+backend/database/*.sqlite3
+backend/storage/*.key
+backend/storage/pail/
+
+# Laravel runtime/cache/log output
+backend/storage/logs/*
+!backend/storage/logs/.gitignore
+backend/storage/framework/cache/*
+!backend/storage/framework/cache/.gitignore
+backend/storage/framework/cache/data/*
+!backend/storage/framework/cache/data/.gitignore
+backend/storage/framework/sessions/*
+!backend/storage/framework/sessions/.gitignore
+backend/storage/framework/views/*
+!backend/storage/framework/views/.gitignore
+backend/bootstrap/cache/*.php
+!backend/bootstrap/cache/.gitignore
+
+# Test/cache artifacts
+.phpunit.result.cache
+.phpunit.cache/
+.pytest_cache/
+.mypy_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Generated archive
+project_jutawan.zip
+
+# ---------------------------------------------------------------------------
+# ORDERra clean handoff / portfolio hygiene
+# ---------------------------------------------------------------------------
+
+# Environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies
+**/node_modules/
+**/vendor/
+
+# Build outputs
+**/dist/
+**/build/
+**/.vite/
+**/.cache/
+**/.tsbuildinfo
+
+# Test/build caches
+**/.phpunit.result.cache
+**/.phpunit.cache/
+**/coverage/
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+
+# Local databases
+**/*.sqlite
+**/*.sqlite3
+**/database.sqlite
+**/database.sqlite3
+
+# Logs and runtime files
+**/*.log
+**/laravel.log
+
+# Laravel runtime output
+backend/storage/logs/*
+!backend/storage/logs/.gitignore
+
+backend/storage/framework/cache/*
+!backend/storage/framework/cache/.gitignore
+
+backend/storage/framework/cache/data/*
+!backend/storage/framework/cache/data/.gitignore
+
+backend/storage/framework/sessions/*
+!backend/storage/framework/sessions/.gitignore
+
+backend/storage/framework/views/*
+!backend/storage/framework/views/.gitignore
+
+backend/bootstrap/cache/*.php
+
+# Generated archives / handoff output
+project_jutawan.zip
+orderra-v2-github-clean.zip
+orderra-v2-github-clean/

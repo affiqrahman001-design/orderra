@@ -1,0 +1,12 @@
+{
+  "event_name": "order.delivered",
+  "order_id": "728f8c3e-3870-4ef0-970d-8c7bc63e11c5",
+  "payload": {
+    "source": "manual_step9_test",
+    "note": "Demo webhook event after rider delivery"
+  },
+  "headers": {
+    "x-demo-source": "orderra-step9"
+  },
+  "notes": "Manual demo webhook test"
+}

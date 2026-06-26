@@ -1,0 +1,20 @@
+{
+  "branch_code": "MAIN",
+  "category_code": "DESSERTS",
+  "code": "CHOCOLATE_MOLTEN_CAKE",
+  "name": "Chocolate Molten Cake",
+  "short_name": "Molten Cake",
+  "slug": "chocolate-molten-cake",
+  "description": "Warm chocolate dessert with soft molten centre.",
+  "base_price": 7.9,
+  "currency": "USD",
+  "is_active": true,
+  "is_featured": false,
+  "badge_label": "New",
+  "prep_note": "Serve warm.",
+  "product_flow": "simple",
+  "sort_order": 1,
+  "meta": {
+    "source": "admin_test"
+  }
+}
