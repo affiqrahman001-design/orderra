@@ -40,12 +40,20 @@ Do **not** disable these flags for the public portfolio build.
 
 ## Screenshots
 
-Add your own captures here after running the stack locally (`/`, `/admin`, `/admin/dine-in-qr`, `/qr/{code}`):
+### Homepage hero
 
-1. Customer catalog
-2. Checkout + payment simulation
-3. Confirmation / timeline
-4. Admin dashboard + Table QR
+![ORDERra homepage hero](docs/screenshots/orderra-home-hero.png)
+
+### Menu product grid
+
+![ORDERra menu product grid](docs/screenshots/orderra-menu-grid.png)
+
+More portfolio captures can be added later:
+
+1. Checkout + payment simulation
+2. Confirmation / timeline
+3. Admin dashboard + Table QR
+4. AI Support open panel
 
 ---
 
